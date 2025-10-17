@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to NIS 2 Directive documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
